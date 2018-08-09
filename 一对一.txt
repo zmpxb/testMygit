@@ -1,4 +1,0 @@
-listTeacherCourseDto
-ajaxTeacherStudentList
-updateCourseTime
-create3mClassUrl
